@@ -1,0 +1,14 @@
+﻿  MotorbikeBrand.cpp
+C:\Users\Admin\source\repos\quanlixemay\quanlixemay\Motobike.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\quanlixemay\quanlixemay\MotorbikeBrand.h(22,33): error C2535: 'void MotorbikeBrand::setTenHang(std::string)': member function already defined or declared
+C:\Users\Admin\source\repos\quanlixemay\quanlixemay\MotorbikeBrand.h(16): message : see declaration of 'MotorbikeBrand::setTenHang'
+  quanlixemay.cpp
+C:\Users\Admin\source\repos\quanlixemay\quanlixemay\Motobike.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\quanlixemay\quanlixemay\MotorbikeBrand.h(22,33): error C2535: 'void MotorbikeBrand::setTenHang(std::string)': member function already defined or declared
+C:\Users\Admin\source\repos\quanlixemay\quanlixemay\MotorbikeBrand.h(16): message : see declaration of 'MotorbikeBrand::setTenHang'
+C:\Users\Admin\source\repos\quanlixemay\quanlixemay\quanlixemay.cpp(1018,53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  QuanLyDanhMuc.cpp
+C:\Users\Admin\source\repos\quanlixemay\quanlixemay\Motobike.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\quanlixemay\quanlixemay\MotorbikeBrand.h(22,33): error C2535: 'void MotorbikeBrand::setTenHang(std::string)': member function already defined or declared
+C:\Users\Admin\source\repos\quanlixemay\quanlixemay\MotorbikeBrand.h(16): message : see declaration of 'MotorbikeBrand::setTenHang'
+  Generating Code...
